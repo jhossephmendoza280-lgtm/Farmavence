@@ -2,8 +2,6 @@
 
 Aplicación de escritorio en **Java (Swing)** para controlar los productos de una farmacia que están por vencer. Avisa de los medicamentos vencidos y de los que vencen en 1 o 2 meses, para poder rotarlos o retirarlos a tiempo.
 
-![FarmaVence](FarmaVence.png)
-
 ## ¿Qué problema resuelve?
 
 En una farmacia, un producto vencido es dinero perdido y un riesgo para el cliente. Llevar las fechas en un cuaderno hace fácil olvidarse de alguno. FarmaVence reemplaza el cuaderno: registras cada producto con su fecha de vencimiento y el programa te avisa cuáles necesitan atención.
